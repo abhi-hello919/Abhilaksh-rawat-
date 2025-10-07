@@ -1,3 +1,5 @@
+//Write a C program that takes a number (1–7) as input and prints the corresponding day of the week using a switch case.
+
 #include <stdio.h>
 
 int main() {
