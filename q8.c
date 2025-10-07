@@ -1,3 +1,4 @@
+//Write a C program to take a person’s age as input and check if they are eligible to vote.
 #include <stdio.h>
 
 int main() {
