@@ -1,3 +1,4 @@
+//Write a C program that takes two numbers and an operator (+, -, *, /) from the user and performs the operation using a switch case.
 #include <stdio.h>
 
 int main() {
